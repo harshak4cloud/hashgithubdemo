@@ -1,0 +1,9 @@
+{
+	"name": "HashAdfGitHubDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc189f00-6025-478e-9ea1-00f259312c28",
+		"tenantId": "7c5b3121-af8d-4bc4-8993-14d3a2df6b7a"
+	}
+}
